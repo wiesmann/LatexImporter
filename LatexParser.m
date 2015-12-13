@@ -3,7 +3,7 @@
 //  LatexImporter
 //
 //  Created by Matthias Wiesmann on 22.08.05.
-//  Copyright 2005 JAIST. All rights reserved.
+//  Copyright 2005 Matthias Wiesmann. All rights reserved.
 //
 
 #import "LatexParser.h"
