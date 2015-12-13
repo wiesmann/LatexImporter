@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>copy_commands</key>
+	<array>
+		<string>small</string>
+		<string>smaller</string>
+		<string>big</string>
+		<string>textsf</string>
+		<string>emph</string>
+		<string>sloppy</string>
+		<string>section</string>
+		<string>subsection</string>
+		<string>paragraph</string>
+		<string>caption</string>
+		<string>texttt</string>
+		<string>textit</string>
+		<string>textbf</string>
+		<string>thanks</string>
+		<string>Section</string>
+		<string>mathit</string>
+		<string>centering</string>
+	</array>
+	<key>substitute_commands</key>
+	<dict>
+		<key>Delta</key>
+		<string>Δ</string>
+		<key>Omega</key>
+		<string>Ω</string>
+		<key>Pi</key>
+		<string>Π</string>
+		<key>ae</key>
+		<string>æ</string>
+		<key>alpha</key>
+		<string>α</string>
+		<key>beta</key>
+		<string>β</string>
+		<key>delta</key>
+		<string>δ</string>
+		<key>diamond</key>
+		<string>♢</string>
+		<key>gamma</key>
+		<string>γ</string>
+		<key>ldots</key>
+		<string>…</string>
+		<key>leftarrow</key>
+		<string>←</string>
+		<key>pi</key>
+		<string>π</string>
+		<key>rightarrow</key>
+		<string>→</string>
+	</dict>
+</dict>
+</plist>

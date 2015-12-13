@@ -1,1 +1,5 @@
 .cvsignore
+build
+LatexImporter.xcodeproj/wiesmann.mode1
+LatexImporter.xcodeproj/wiesmann.pbxuser
+LatexImporter.xcodeproj/xcuserdata/
